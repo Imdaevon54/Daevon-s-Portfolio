@@ -1,0 +1,21 @@
+body {
+  padding-top: 5rem;
+  margin: 5em;
+  color: lightseagreen;
+  background: url(https://cdn.glitch.me/bb1fffa8-e339-446a-ba74-c87ebf11ae11%2FPortfolio%20Background%20blue.png?v=1637396458160);
+}
+.starter-template {
+  padding: 3rem 1.5rem;
+  text-align: center;
+}
+.nav-p {
+  display: inline-block;
+  padding-top: 0.3125rem;
+  padding-bottom: 0.3125rem;
+  margin-right: 1rem;
+  font-size: 2rem;
+
+  line-height: inherit;
+  white-space: nowrap;
+  color: white;
+}
